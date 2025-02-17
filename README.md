@@ -1,6 +1,6 @@
 # Xenon Window Decorations
 
-Xenon is a window decoration for KDE and a GTK theme with a blue-purple glow, designed to complement the [Xeno](https://github.com/tully-t/Xeno/tree/main) KDE theme suite.
+Xenon is a window decoration for KDE and a GTK theme with a blue-purple glow, designed to complement the [Xeno](https://github.com/tully-t/Xeno/tree/main) theme suite for KDE.
 
 ## In this repository, you'll find:
 
