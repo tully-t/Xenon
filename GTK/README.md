@@ -14,7 +14,7 @@ Xenon-gtk is a dark, colorful GTK3 theme designed to complement the Xeno KDE the
 
 ![screenshot of widget factory with Xenon-gtk theme](preview/screenshot-1.png)
 
-![screenshot of widget factory page 2 with Xenon-gtk theme](preview/screenshot-2.png)
+![screenshot of widget factory page 2 with Xenon-gtk theme](preview/screenshot-02.png)
 
 ![screenshot of Inkscape with Xenon-gtk theme](preview/screenshot-inkscape-01.png)
     
