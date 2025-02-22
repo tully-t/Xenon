@@ -1,6 +1,6 @@
 # Xenon-gtk
 
-Xenon-gtk is a dark, colorful GTK3 theme designed to complement the Xenon KDE theme. Xenon-gtk does not currently support GTK4 or desktop environments other than KDE.
+Xenon-gtk is a dark, colorful GTK3 theme designed to complement the Xenon KDE theme. Xeno-gtk does not currently support GTK4 or desktop environments other than KDE.
 
 ## Features:
 
