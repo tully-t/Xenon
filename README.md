@@ -4,8 +4,10 @@ Xenon is a window decoration for KDE and a GTK theme with a blue-purple glow, de
 
 ## In this repository, you'll find:
 
-- Xenon Aurorae window decoration theme
+- Xenon Aurorae window decoration
 - Xenon-gtk GTK theme
+
+### Recommended to use alongside:
 
 Icons: [Sours](https://github.com/tully-t/Sours)
 
