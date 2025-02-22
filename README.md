@@ -15,7 +15,7 @@ Kvantum theme: [Xeno](https://github.com/tully-t/Xeno/tree/main/Kvantum)
 
 Plasma theme: [Xeno](https://github.com/tully-t/Xeno/tree/main/Plasma)
 
-Conky (panel background): [Xeno](https://github.com/tully-t/Xeno/tree/main/Conky
+Conky (panel background): [Xeno](https://github.com/tully-t/Xeno/tree/main/Conky)
 
 Font: [Neuropolitical](https://www.dafont.com/neuropolitical.font)
 
