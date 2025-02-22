@@ -8,10 +8,15 @@ Xenon is a window decoration for KDE and a GTK theme with a blue-purple glow, de
 - Xenon-gtk GTK theme
 
 Icons: [Sours](https://github.com/tully-t/Sours)
+
 Color Scheme: [Xeno](https://github.com/tully-t/Xeno/tree/main/color-schemes)
+
 Kvantum theme: [Xeno](https://github.com/tully-t/Xeno/tree/main/Kvantum)
+
 Plasma theme: [Xeno](https://github.com/tully-t/Xeno/tree/main/Plasma)
+
 Conky (panel background): [Xeno](https://github.com/tully-t/Xeno/tree/main/Conky
+
 Font: [Neuropolitical](https://www.dafont.com/neuropolitical.font)
 
 ## Installation
@@ -20,7 +25,7 @@ Each component folder contains a README with installation instructions, recommen
 
 ## Preview
 
-![screenshot of Xenon Aurorae window decoration](preview/screenshot-aurorae-1.png)
+![screenshot of Xenon Aurorae window decoration](preview/screenshot-aurorae-01.png)
 
 ![screenshot of Xenon-gtk GTK theme](preview/screenshot-gtk-1.png)
 
