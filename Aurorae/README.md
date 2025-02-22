@@ -9,9 +9,9 @@ The Xenon window decoration is a dark theme for Aurorae with an alien shape and 
 - Close, maximize, and minimize buttons grow when hovered and glow when pressed
 - No korners
 
-![screenshot of Xenon window decoration](preview/screenshot-11.png)
+![screenshot of Xenon window decoration](preview/screenshot-01.png)
 
-![screenshot of Xenon window decoration with active and inactive windows](preview/screenshot-22.png)
+![screenshot of Xenon window decoration with active and inactive windows](preview/screenshot-02.png)
 
 ## Installation
 
@@ -21,7 +21,7 @@ The Xenon window decoration is a dark theme for Aurorae with an alien shape and 
 - We now have a ~/.local/share/aurorae/themes/Xenon
 - In System Settings -> Appearance -> Window Decorations, select Xenon and click Apply
 
-## Recommendations
+### Recommendations:
 
 - Icons: [Sours](https://github.com/tully-t/Sours)
 - Kvantum theme: [Xeno](https://github.com/tully-t/Xeno/tree/main/Kvantum)
